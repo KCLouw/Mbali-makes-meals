@@ -26,18 +26,20 @@ body {
     height: 400px;
     border-radius: 10%;
     margin-left: 30%;
+    margin-top: 16px;
+    margin-bottom: 1%;
 }
 
 .description {
     display: flex;
-    align-items: center;
-    background-image: url('images/IMG_20220218_152430.JPG');
+    align-items:center;
+    background-color: lightgrey;
 }
 
 .bio {
-    padding: 5px;
-    margin-left: 5%;
-    margin-right: 20%;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 200%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: solid 5px grey;
     border-radius: 5%;
