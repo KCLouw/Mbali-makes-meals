@@ -45,3 +45,24 @@ body {
     border-radius: 5%;
     text-align: center;
 }
+
+.thumbnail {
+    width: 300px;
+    position: relative;
+}
+
+.meal-description {
+    padding: 20px;
+    position: relative;
+    display: block;
+}
+
+.tile {
+    margin: 10px;
+    display: block;
+}
+
+.meal-text {
+    text-align:inherit;
+    margin-right: 1000px;
+}
